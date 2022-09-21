@@ -1,5 +1,7 @@
 # IBM-Project-22556-1659853851
 Smart Waste Management System For Metropolitan Cities
+
+
 Assignment-1 
 Make a Smart Home in Tinkercad, using 2+ sensors, Led, Buzzer in single code and circuit.
 
