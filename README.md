@@ -3,6 +3,9 @@ Smart Waste Management System For Metropolitan Cities
 
 Team ID : PNT2022TMID02664
 
+
+
+
 Team Leader : Yoga Lakshmi
 
 Team member : Nivedhitha
